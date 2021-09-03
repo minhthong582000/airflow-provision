@@ -2,6 +2,12 @@
 
 A quick way to start Airflow with CeleryExecutor in Docker.
 
+## Prerequisites
+
+- Docker CE
+- Docker-compose
+- A Kubernetes Cluster (with a config file in ~/.kube/config)
+
 ## How to run ?
 
 ```bash
