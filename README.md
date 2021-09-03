@@ -1,13 +1,13 @@
 # airflow-provision
 
-# How to run ?
+## How to run ?
 
 ```bash
 sudo chmod +x start.sh
 ./start.sh
 ```
 
-# Exec into airflow-worker
+## Exec into airflow-worker
 
 ```bash
 sudo chmod +x airflow.sh
